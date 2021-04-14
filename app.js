@@ -32,6 +32,6 @@ if (userAge>=18){
   document.write('<img src="https://static8.depositphotos.com/1431107/919/i/950/depositphotos_9199988-stock-photo-oops-icon.jpg ">');
   document.write('welcome '+' '+ userName +' '+'becouse your age '+userAge+' '+ 'under 18  we are so sorry we will send you to the other web its for under age' )
 
-}
+};
 
 
