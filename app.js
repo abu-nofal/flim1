@@ -24,6 +24,7 @@ console.log(userName);
 var userAge =prompt('enter your age please ');
 console.log(userAge);
 if (userAge>=18){
+  alert('welcome and  cheack the end of page  ')
   document.write('<img src="https://img.freepik.com/free-vector/welcome-modern-lettering_136321-864.jpg?size=626&ext=jpg ">');
   document.write('welcome aguin'+' '+userName+' '+'you can enjoy with our web ');
   
