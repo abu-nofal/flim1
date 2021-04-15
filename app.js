@@ -17,6 +17,7 @@
 // // if (yourAge>=18){
 // //   document.write('welcome'+' '+userName)}
 
+<<<<<<< HEAD
 
 // alert('welcome and hello to ahamd chanal');
 
@@ -47,6 +48,18 @@
 // //   alert('welcome and  cheack the end of the page  ')
 // //   userImg('<img src="https://img.freepik.com/free-vector/welcome-modern-lettering_136321-864.jpg?size=626&ext=jpg ">');
 // //   userImg('welcome aguin'+' '+userName+' '+'you can enjoy with our web ');
+=======
+alert('welcome and hallo to ahamd chanal');
+alert('here you will find a best movies ever');
+var userName =prompt('enter your name please');
+console.log(userName);
+var userAge =prompt('enter your age please ');
+console.log(userAge);
+if (userAge>=18){
+  alert('welcome and  cheack the end of page  ')
+  document.write('<img src="https://img.freepik.com/free-vector/welcome-modern-lettering_136321-864.jpg?size=626&ext=jpg ">');
+  document.write('welcome aguin'+' '+userName+' '+'you can enjoy with our web ');
+>>>>>>> cae3003a5b724ad811e86a8b89bc1242b9394ff3
   
 // // } else if (userAge<18) {
 // //   alert('becouse you are under age you read the contant in the end of the page ')
