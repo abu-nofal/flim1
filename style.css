@@ -1,0 +1,70 @@
+header {
+
+  background-color: #eeebdd;
+  border-left: 2px solid black;
+border-top: 2px solid red;
+border-radius: 4px ;
+}
+h1 {
+
+text-align: center;
+
+}
+
+header nav li,a {
+
+  display: inline-block;
+
+  width : calc ((100%-100px)/5);
+
+  margin-left : 20px;
+  color: black;
+ 
+
+  
+   
+
+}
+header nav li a {
+
+  text-decoration: none ;
+   border: 2px solid #ffc93c ;
+  border-radius: 4.5px;
+ 
+}
+main {
+background-color : #ffc93c;
+
+}
+h3{
+
+text-align: center;
+border : 2px solid black;
+border-radius: 5px;
+
+}
+img {
+  width:250px;
+  height: 180px;
+}
+
+footer{
+
+  background-color :gray; 
+  text-align: center;
+}
+
+#first_id {
+
+font-size: 18px;
+}
+.par {
+  font-size: 17px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+main article a{
+
+  text-decoration: none;
+  border: 1px solid black;
+}
