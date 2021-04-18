@@ -60,11 +60,7 @@
 //   document.write('<img src="https://img.freepik.com/free-vector/welcome-modern-lettering_136321-864.jpg?size=626&ext=jpg ">');
 //   document.write('welcome aguin'+' '+userName+' '+'you can enjoy with our web ');
 // >>>>>>> cae3003a5b724ad811e86a8b89bc1242b9394ff3
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> a18682f4663c4a40e43ea54164461febc883cff3
 // // } else if (userAge<18) {
 // //   alert('becouse you are under age you read the contant in the end of the page ')
 // //   userImg('<img src="https://static8.depositphotos.com/1431107/919/i/950/depositphotos_9199988-stock-photo-oops-icon.jpg ">');
@@ -138,11 +134,8 @@ function showImg() {
   }
 }
 
-<<<<<<< HEAD
+
 // document.write('welcome ' + ' ' + usNam + ' ' + 'enjoy in our site ');
 showImg();
-=======
-  document.write(userType);
-  document.write('welcome '+' '+usNam +' '+'enjoy in our site ');
-}
->>>>>>> a18682f4663c4a40e43ea54164461febc883cff3
+
+ 
